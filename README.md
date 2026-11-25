@@ -26,7 +26,6 @@ This is our mini project. We designed the app in Figma first and then made it as
 - CSS
 - Bootstrap 5
 - Bootstrap Icons
-- JavaScript (size select, cart quantity and total)
 
 ## How to Run
 1. Clone or download this repository
